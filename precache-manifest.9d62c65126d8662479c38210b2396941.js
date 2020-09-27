@@ -1,47 +1,59 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "750087c63390614256f196cf6e0aedfe",
+    "revision": "0a01d8ef398c0e23d6e5bc5d6b272bda",
     "url": "/index.html"
   },
   {
-    "revision": "a0b6a7ae1a91845ae4ae",
+    "revision": "1e8f08b1f39510a8ec8a",
     "url": "/static/css/3.c7b31c95.chunk.css"
   },
   {
-    "revision": "6e340709f7169af21f7f",
-    "url": "/static/css/4.54df59d4.chunk.css"
+    "revision": "618e39e327ebe6fa4273",
+    "url": "/static/css/4.a5ea8c3a.chunk.css"
   },
   {
-    "revision": "584bc82b3bd4a4b06718",
-    "url": "/static/css/main.36084793.chunk.css"
+    "revision": "b4b6c176272beaf3d05f",
+    "url": "/static/css/main.2829724d.chunk.css"
   },
   {
-    "revision": "c3dcb7858b1007a7c027",
-    "url": "/static/js/2.c8983900.chunk.js"
+    "revision": "0d805654f0314a6b7d42",
+    "url": "/static/js/2.ff873451.chunk.js"
   },
   {
-    "revision": "a0b6a7ae1a91845ae4ae",
-    "url": "/static/js/3.03e4cb4d.chunk.js"
+    "revision": "1e8f08b1f39510a8ec8a",
+    "url": "/static/js/3.6373e99b.chunk.js"
   },
   {
-    "revision": "6e340709f7169af21f7f",
-    "url": "/static/js/4.09e02e77.chunk.js"
+    "revision": "618e39e327ebe6fa4273",
+    "url": "/static/js/4.0943fddf.chunk.js"
   },
   {
-    "revision": "584bc82b3bd4a4b06718",
-    "url": "/static/js/main.77623f0e.chunk.js"
+    "revision": "b4b6c176272beaf3d05f",
+    "url": "/static/js/main.216d8e3c.chunk.js"
   },
   {
-    "revision": "54510e42fc81a7357eee",
-    "url": "/static/js/runtime-main.00789e99.js"
+    "revision": "5e8ac6d220f1227c6733",
+    "url": "/static/js/runtime-main.406639f6.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
     "url": "/static/media/Agustina.21f233e1.woff"
   },
   {
+    "revision": "d4924b08afd856f762f74f4529c11b19",
+    "url": "/static/media/Dida.d4924b08.jpg"
+  },
+  {
+    "revision": "2087980c8828769c88dfde6709f1ecbe",
+    "url": "/static/media/Mizzou.2087980c.png"
+  },
+  {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
     "url": "/static/media/Montserrat-Regular.ee653992.ttf"
+  },
+  {
+    "revision": "5aa1631432ce605d1c9045badf1fe961",
+    "url": "/static/media/USC.5aa16314.jpg"
   },
   {
     "revision": "69724ed1f2ed22d9ad934556baa9bc5d",
