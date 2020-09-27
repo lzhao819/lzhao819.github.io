@@ -1,0 +1,33 @@
+.software-skills-main-div{
+  background-color:#f5f5f5;
+}
+.dev-icons {
+  padding-left: 0;
+  list-style: none;
+  font-size: 4rem;
+  margin-bottom: 0px;
+  margin-top: 0px;
+  text-align: center;
+}
+
+.software-skill-inline {
+  display: inline-block;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+.software-skill-inline > i {
+  /* color: #868e96; */
+  color: #009cda;
+}
+
+.software-skill-inline > i:hover {
+  color: #e71d08;
+}
+.software-skill-inline > p {
+  color:#009cda;
+  font-size: 10px;
+}
+.software-skill-inline > i:hover ~ p{
+  color: #e71d08;
+}
